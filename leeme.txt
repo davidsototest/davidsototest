@@ -1,1 +1,1 @@
-esto esta bien 
+El Quality Assurance (QA) forma parte de las actividades de gestión de la calidad de una organización. Según la ISO 9000 se define Quality Assurance como la parte de la gestión de la calidad centrada en asegurar que se cumplan los requerimientos de calidad.
